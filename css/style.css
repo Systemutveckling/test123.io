@@ -115,6 +115,7 @@ a:hover{
     nav{
       flex-direction: column;
       width: 22vw;
+	height: 100vh;
     }
     .section {
       display: flex;
