@@ -116,9 +116,6 @@ a:hover{
       flex-direction: column;
       width: 22vw;
     }
-    body{
-      height: 360px;
-    }
     .section {
       display: flex;
       overflow-y: scroll;
