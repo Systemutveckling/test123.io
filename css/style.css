@@ -1,22 +1,20 @@
-#page1 {
-  height: 100vh;
-  background-image:	url(../img/hot-cup.jpg);
-  background-size:	cover;
+#page1,#page2,#page3{
+  height: 100vh;	 
+  background-size: cover;
   background-position: center;
+}
+
+#page1 {
+  background-image:	url(../img/hot-cup.jpg);
 }
 
 #page2{
-  height: 100vh;
   background-image:	url(../img/orange-quarters.jpg);
-  background-size:	cover;
-  background-position: center;
 }
 
 #page3{
-  height: 100vh;
   background-image:	url(../img/cosy-cafe.jpg);
-  background-size:	cover;
-  background-position: center;
+
 }
 
 summary{
